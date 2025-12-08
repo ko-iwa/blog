@@ -2,7 +2,7 @@
 title: フルトラ
 description: フルトラ作成日記
 slug: 写真
-date: 2025-12-08 00:00:00+0000
+date: 2025-12-08 13:00:00+0000
 # image: 
 categories:
     - 日記
