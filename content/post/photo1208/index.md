@@ -13,6 +13,6 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
 
-[imaege]{IMG_3825.JPG}
+![imaege]{IMG_3825.JPG}
 
 
